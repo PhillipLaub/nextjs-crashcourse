@@ -9,6 +9,7 @@ const contact = () => {
         <meta name="keywords" content="web development, programming" />
       </Head>
       <h1>contact</h1>
+      <p>contact us page</p>
     </div>
   );
 };
